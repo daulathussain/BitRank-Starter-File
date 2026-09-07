@@ -1,4 +1,4 @@
-# Outbid.lol Clone with NextJs
+# BitRent (Outbid.lol) Clone with NextJs
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/09/Build-Deploy-an-Outbid.lol-Clone-with-Next.js-Supabase-Analytics-Stripe.jpg)
 
